@@ -1,5 +1,4 @@
 Repo para materia Concentración Inteligencia Artificial
 
-<p align="center">
-<img src="https://github.com/feraranas/Concentracion-Inteligencia-Artificial/blob/main/Recursos/ML-Pipeline.gif" width="500" height="700" />
-</p>
+Pipline ML
+![]('https://github.com/feraranas/Concentracion-Inteligencia-Artificial/Recursos/ML-Pipeline.gif')
